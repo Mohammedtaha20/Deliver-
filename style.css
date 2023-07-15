@@ -1,0 +1,272 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* start section 1 */
+.sce{
+    position: relative;
+}
+nav {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    height: 56px;
+    width: 100%;
+    justify-content: space-between;
+    padding: 35px 15px 0px 13px;
+    top: 0px;
+    z-index: 3;
+}
+nav .nav-left{
+    align-items: center;
+    display: flex;
+}
+.nav-left a{
+    padding: 3px 10px 0px 13px;
+    text-decoration: none;
+    color: #65676b;
+    font-size: 25px;
+    padding:10px 20px;
+    margin:0px 10px;
+    border-radius: 8px;
+    
+}
+.nav-right{
+    display: flex;
+    align-items: center;
+}
+.nav-right img{
+    position: relative;
+}
+.nav-right button{
+    font-size: 18px;
+    position: absolute;
+    border: 0;
+    right: 55px;
+    background-color: white;
+    
+}
+.h1{
+    position: absolute;
+    top: 200px;
+    padding-left: 4cm;
+}
+.h1 h1 {
+    font-size: 45px;
+}
+.img1{
+    display: flex;
+}
+.waves {
+    width: 1100px;
+    position: absolute;
+    top: 500px;
+    left: 10px;
+}
+.land {
+    position: absolute;
+    width: 850px;
+    right: 15px;
+    top: 0px;
+}
+.Mask{
+    position: absolute;
+    width: 350px;
+    right: 280px;
+    top: 60px;
+}
+.clouds1{
+    width: 250px;
+    position: absolute;
+    top: 550px;
+    right: 300px;
+}   
+.clouds2{
+    width: 250px;
+    position: absolute;
+    top: 500px;
+    right: 350px;
+}   
+.clouds3{
+    width: 250px;
+    position: absolute;
+    top: 650px;
+    right: 350px;
+}   
+/*End section 1  */
+/* Start section 2 */
+    .sec2{
+        display: flex ;
+    }
+    .KUDZOKA {
+        
+        align-items: center;
+    }
+    .KUDZOKA .kud {
+        width:450px ;
+        position: relative;
+        top:  1050px;
+    }
+    .KUDZOKA .h3 {
+        color: rgb(242, 242, 242);
+        position: absolute;
+        top: 1850px;
+        left: 135px ;
+        font-size: 20px;
+    }
+    .KUDZOKA .h3 h1{
+        font-size: 50px;
+        font-style: normal;
+        font-family: 'Courier New', Courier, monospace;
+    }
+      .car {
+        width: 1100px;
+        height: 550px;
+        position: relative;
+        right: 100px;
+        top: 350px;
+    }
+    .sec2 .Discounts img{
+        width: 150px;
+        position: absolute;
+        top: 1550px;
+        right: 200px;
+    }
+    .sec2 .Discounts img{
+        width: 150px;
+        position: absolute;
+        top: 1550px;
+        right: 200px;
+    }
+    .sec2 .Discounts .dis-h3 {
+        position: absolute;
+        top: 1650px;
+        right: 120px;
+        text-align: center;
+    }
+     .super img {
+        position:absolute;
+        width: 150px;
+        top: 1095px;
+        left: 280px;
+    }
+    .super .sup-h2
+    {
+        position: absolute;
+        top: 1230px;
+        left: 230px;
+        text-align: center;
+    }
+    .real img{
+        position: absolute;
+        width: 180px;
+        top: 1250px;
+        left: 750px;
+    }
+    .real-h2 {
+        position: absolute;
+        top: 1400px;
+        left: 680px;
+        text-align: center;
+    }
+    .img3{
+        position: absolute;
+        top:  2500px;
+        left: 150px;
+    }
+    .img3 img {
+        padding: 10px 15px 10px 10px;
+    }
+      .img3-h2
+     {
+        position: absolute;
+        top:  3000px;
+        left: 650px;
+        text-align: center;
+     }
+
+ /* End section 2 */
+ /* Start section 3 */
+ .sec3{
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top:  3350px;
+    
+ }
+ .sec3 img {
+    position: relative;
+    width: 1500px;
+ }
+ .sec3 .pepole {
+    position:absolute;
+    width: 570px;
+    right: 130px;
+    top: 40px;
+
+ }
+ .sec3 .icon {
+    position: absolute;
+    width: 150px;
+    left: 150px;
+    top: 300px;
+ }
+ .sec3 .icon2 {
+    position: absolute;
+    width: 150px;
+    left: 350px;
+    top: 300px;
+ }
+ .sec3 .apple {
+    position: absolute;
+    width: 30px;
+    left: 159px;
+    top: 305px;
+ }
+ .sec3 .app {
+    position: absolute;
+    width: 80px;
+    left: 200px;
+    top: 315px;
+    text-align: center;
+ }
+ .sec3 .play {
+    position: absolute;
+    width: 30px;
+    left: 369px;
+    top: 305px;
+ }
+ .sec3 .pla {
+    position: absolute;
+    width: 80px;
+    left: 400px;
+    top: 315px;
+    text-align: center;
+ }
+ .icon3{
+    display: flex;
+ }
+ .icon3 .ins {
+    position: absolute;
+    width: 50px;
+    top: 400px;
+    left: 150px;
+ }
+ .icon3 .face {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 400px;
+    left: 350px;
+ }
+ .icon3 .whats {
+    position: absolute;
+    width: 50px;
+    top: 400px;
+    left: 250px;
+ }
+ 
+
+ /* End section 3 */
